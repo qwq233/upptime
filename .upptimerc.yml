@@ -33,8 +33,5 @@ status-website:
       href: https://github.com/qwq233
     - title: My Blog
       href: https://qwq2333.top/
-
-workflowSchedule:
-  uptime: "*/2 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
