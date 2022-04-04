@@ -4,18 +4,20 @@
     "url": "https://qwq2333.top",
     "icon": "https://favicons.githubusercontent.com/qwq2333.top",
     "slug": "blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2432,
     "timeDay": 1699,
     "timeWeek": 1922,
     "timeMonth": 2432,
     "timeYear": 2432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-04": 2
+    }
   },
   {
     "name": "Bitwarden",
