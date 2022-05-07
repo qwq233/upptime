@@ -9,7 +9,7 @@ sites:
     url: https://pass.qwq2333.top
   - name: AuthServer
     method: POST
-    url: https://api.qwq2333.top/user/query
+    url: https://api.qwq2333.top/qa/user/query
     headers:
       - "Content-Type: application/json"
     body: '{ "uin": 731555702 }'
