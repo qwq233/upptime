@@ -22,7 +22,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.qwq2333.top
-  logoUrl: https://2fa.qwq2333.top/images/Pa3.png
+  logoUrl: https://qwq2333.top/wp-content/uploads/2022/03/avatar-new.png
   name: Status Pages
   introTitle: "James Clef's Site Statuspage"
   introMessage: Hope these things will not die
