@@ -12,7 +12,7 @@ sites:
     url: https://api.qwq2333.top/qa/user/query
     headers:
       - "Content-Type: application/json"
-    body: '{ "uin": 731555702 }'
+    body: '{ "uin": 3435556087 }'
   - name: NextCloud
     url: https://cloud.qwq2333.top
   - name: Jenkins
