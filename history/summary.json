@@ -12,7 +12,7 @@
     "uptimeYear": "88.38%",
     "time": 2626,
     "timeDay": 2801,
-    "timeWeek": 3572,
+    "timeWeek": 3334,
     "timeMonth": 3303,
     "timeYear": 2626,
     "dailyMinutesDown": {
@@ -122,7 +122,7 @@
     "uptimeYear": "87.07%",
     "time": 1580,
     "timeDay": 2318,
-    "timeWeek": 2682,
+    "timeWeek": 2683,
     "timeMonth": 2482,
     "timeYear": 1580,
     "dailyMinutesDown": {
@@ -229,7 +229,7 @@
     "uptimeMonth": "95.05%",
     "uptimeYear": "86.68%",
     "time": 1300,
-    "timeDay": 2016,
+    "timeDay": 2103,
     "timeWeek": 2100,
     "timeMonth": 1764,
     "timeYear": 1300,
@@ -329,19 +329,19 @@
     "url": "https://cloud.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.qwq2333.top.ico",
     "slug": "next-cloud",
-    "status": "up",
-    "uptime": "94.36%",
-    "uptimeDay": "77.28%",
-    "uptimeWeek": "81.28%",
+    "status": "down",
+    "uptime": "94.51%",
+    "uptimeDay": "77.23%",
+    "uptimeWeek": "81.27%",
     "uptimeMonth": "91.10%",
-    "uptimeYear": "94.36%",
+    "uptimeYear": "94.51%",
     "time": 3069,
     "timeDay": 6023,
     "timeWeek": 4623,
     "timeMonth": 4356,
     "timeYear": 3069,
     "dailyMinutesDown": {
-      "2023-02-12": 192,
+      "2023-02-12": 194,
       "2023-02-11": 278,
       "2023-02-10": 284,
       "2023-02-09": 52,
@@ -391,9 +391,7 @@
       "2022-07-23": 45,
       "2022-07-22": 296,
       "2022-07-21": 296,
-      "2022-07-20": 178,
-      "2022-07-17": 400,
-      "2022-07-16": 306
+      "2022-07-20": 178
     }
   },
   {
@@ -401,14 +399,14 @@
     "url": "https://apk.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
-    "status": "up",
-    "uptime": "96.58%",
-    "uptimeDay": "74.51%",
-    "uptimeWeek": "79.74%",
+    "status": "down",
+    "uptime": "96.59%",
+    "uptimeDay": "75.08%",
+    "uptimeWeek": "79.83%",
     "uptimeMonth": "89.82%",
-    "uptimeYear": "96.58%",
+    "uptimeYear": "96.59%",
     "time": 3699,
-    "timeDay": 5618,
+    "timeDay": 5737,
     "timeWeek": 6348,
     "timeMonth": 5972,
     "timeYear": 3699,
@@ -445,7 +443,7 @@
       "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
-      "2022-09-19": 40
+      "2022-09-19": 16
     }
   }
 ]
