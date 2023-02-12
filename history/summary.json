@@ -11,7 +11,7 @@
     "uptimeMonth": "95.78%",
     "uptimeYear": "88.38%",
     "time": 2632,
-    "timeDay": 2985,
+    "timeDay": 2936,
     "timeWeek": 3254,
     "timeMonth": 3315,
     "timeYear": 2632,
@@ -230,7 +230,7 @@
     "uptimeYear": "86.68%",
     "time": 1349,
     "timeDay": 3587,
-    "timeWeek": 2262,
+    "timeWeek": 2285,
     "timeMonth": 1900,
     "timeYear": 1349,
     "dailyMinutesDown": {
@@ -330,18 +330,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.qwq2333.top.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "94.67%",
-    "uptimeDay": "81.24%",
-    "uptimeWeek": "82.74%",
-    "uptimeMonth": "90.97%",
-    "uptimeYear": "94.67%",
+    "uptime": "94.54%",
+    "uptimeDay": "81.80%",
+    "uptimeWeek": "82.82%",
+    "uptimeMonth": "90.98%",
+    "uptimeYear": "94.54%",
     "time": 3129,
     "timeDay": 4985,
     "timeWeek": 4682,
     "timeMonth": 4455,
     "timeYear": 3129,
     "dailyMinutesDown": {
-      "2023-02-12": 271,
+      "2023-02-12": 263,
       "2023-02-11": 278,
       "2023-02-10": 284,
       "2023-02-09": 52,
@@ -388,7 +388,9 @@
       "2022-07-28": 712,
       "2022-07-27": 190,
       "2022-07-24": 33,
-      "2022-07-23": 45
+      "2022-07-23": 45,
+      "2022-07-22": 296,
+      "2022-07-21": 296
     }
   },
   {
@@ -396,15 +398,15 @@
     "url": "https://apk.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "74.53%",
+    "status": "down",
+    "uptime": "98.79%",
+    "uptimeDay": "74.51%",
     "uptimeWeek": "78.98%",
     "uptimeMonth": "89.38%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.79%",
     "time": 3719,
     "timeDay": 5381,
-    "timeWeek": 6159,
+    "timeWeek": 6128,
     "timeMonth": 5938,
     "timeYear": 3719,
     "dailyMinutesDown": {
@@ -430,7 +432,7 @@
       "2022-10-11": 35,
       "2022-10-10": 25,
       "2022-10-06": 552,
-      "2022-10-05": 272
+      "2022-10-05": 249
     }
   }
 ]
