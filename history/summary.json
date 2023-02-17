@@ -232,13 +232,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.qwq2333.top.ico",
     "slug": "auth-server",
     "status": "up",
-    "uptime": "86.52%",
-    "uptimeDay": "94.54%",
+    "uptime": "86.53%",
+    "uptimeDay": "94.97%",
     "uptimeWeek": "81.59%",
     "uptimeMonth": "91.21%",
-    "uptimeYear": "86.52%",
+    "uptimeYear": "86.53%",
     "time": 1446,
-    "timeDay": 3487,
+    "timeDay": 3310,
     "timeWeek": 2808,
     "timeMonth": 2069,
     "timeYear": 1446,
@@ -343,11 +343,11 @@
     "url": "https://cloud.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.qwq2333.top.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "86.06%",
-    "uptimeWeek": "73.35%",
-    "uptimeMonth": "89.43%",
+    "uptimeDay": "85.96%",
+    "uptimeWeek": "73.33%",
+    "uptimeMonth": "89.49%",
     "uptimeYear": "99.02%",
     "time": 3297,
     "timeDay": 3635,
@@ -355,7 +355,7 @@
     "timeMonth": 4537,
     "timeYear": 3297,
     "dailyMinutesDown": {
-      "2023-02-17": 185,
+      "2023-02-17": 186,
       "2023-02-16": 218,
       "2023-02-15": 1007,
       "2023-02-14": 529,
@@ -368,7 +368,7 @@
       "2023-02-07": 246,
       "2023-02-06": 256,
       "2023-02-05": 405,
-      "2023-02-04": 379
+      "2023-02-04": 352
     }
   },
   {
@@ -377,18 +377,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "85.61%",
-    "uptimeWeek": "68.11%",
-    "uptimeMonth": "88.80%",
-    "uptimeYear": "98.96%",
+    "uptime": "98.93%",
+    "uptimeDay": "86.42%",
+    "uptimeWeek": "68.19%",
+    "uptimeMonth": "88.49%",
+    "uptimeYear": "98.93%",
     "time": 4107,
     "timeDay": 7315,
     "timeWeek": 6645,
     "timeMonth": 6149,
     "timeYear": 4107,
     "dailyMinutesDown": {
-      "2023-02-17": 185,
+      "2023-02-17": 178,
       "2023-02-16": 216,
       "2023-02-15": 1073,
       "2023-02-14": 696,
@@ -400,7 +400,7 @@
       "2023-02-08": 271,
       "2023-02-07": 217,
       "2023-02-06": 332,
-      "2023-02-05": 357
+      "2023-02-05": 503
     }
   }
 ]
