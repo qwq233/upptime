@@ -351,12 +351,12 @@
     "slug": "next-cloud",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "69.09%",
-    "uptimeWeek": "70.44%",
+    "uptimeDay": "69.54%",
+    "uptimeWeek": "70.52%",
     "uptimeMonth": "89.07%",
     "uptimeYear": "98.99%",
     "time": 3373,
-    "timeDay": 5266,
+    "timeDay": 4824,
     "timeWeek": 4775,
     "timeMonth": 4591,
     "timeYear": 3373,
@@ -383,15 +383,15 @@
     "url": "https://apk.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "65.73%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "65.70%",
     "uptimeWeek": "66.92%",
-    "uptimeMonth": "88.52%",
-    "uptimeYear": "98.94%",
+    "uptimeMonth": "88.76%",
+    "uptimeYear": "98.96%",
     "time": 4220,
     "timeDay": 7647,
-    "timeWeek": 6681,
+    "timeWeek": 6708,
     "timeMonth": 6262,
     "timeYear": 4220,
     "dailyMinutesDown": {
@@ -408,7 +408,7 @@
       "2023-02-09": 240,
       "2023-02-08": 271,
       "2023-02-07": 217,
-      "2023-02-06": 143
+      "2023-02-06": 36
     }
   }
 ]
