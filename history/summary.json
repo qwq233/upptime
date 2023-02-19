@@ -233,11 +233,11 @@
     "url": "https://api.qwq2333.top/qa/user/query",
     "icon": "https://icons.duckduckgo.com/ip3/api.qwq2333.top.ico",
     "slug": "auth-server",
-    "status": "up",
+    "status": "down",
     "uptime": "86.56%",
-    "uptimeDay": "94.02%",
-    "uptimeWeek": "81.37%",
-    "uptimeMonth": "90.98%",
+    "uptimeDay": "93.85%",
+    "uptimeWeek": "81.34%",
+    "uptimeMonth": "90.97%",
     "uptimeYear": "86.56%",
     "time": 1461,
     "timeDay": 2392,
@@ -245,6 +245,7 @@
     "timeMonth": 2089,
     "timeYear": 1461,
     "dailyMinutesDown": {
+      "2023-02-19": 2,
       "2023-02-18": 86,
       "2023-02-17": 73,
       "2023-02-16": 102,
@@ -379,11 +380,11 @@
     "url": "https://apk.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "70.63%",
-    "uptimeWeek": "67.89%",
-    "uptimeMonth": "88.74%",
+    "uptimeDay": "70.59%",
+    "uptimeWeek": "67.88%",
+    "uptimeMonth": "88.79%",
     "uptimeYear": "98.96%",
     "time": 4177,
     "timeDay": 6676,
@@ -391,6 +392,7 @@
     "timeMonth": 6234,
     "timeYear": 4177,
     "dailyMinutesDown": {
+      "2023-02-19": 1,
       "2023-02-18": 425,
       "2023-02-17": 204,
       "2023-02-16": 216,
@@ -403,7 +405,7 @@
       "2023-02-09": 240,
       "2023-02-08": 271,
       "2023-02-07": 217,
-      "2023-02-06": 276
+      "2023-02-06": 256
     }
   }
 ]
