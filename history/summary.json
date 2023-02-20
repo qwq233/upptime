@@ -4,9 +4,9 @@
     "url": "https://qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/qwq2333.top.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "88.27%",
-    "uptimeDay": "96.42%",
+    "uptimeDay": "96.38%",
     "uptimeWeek": "82.28%",
     "uptimeMonth": "91.66%",
     "uptimeYear": "88.27%",
@@ -16,7 +16,7 @@
     "timeMonth": 3705,
     "timeYear": 2832,
     "dailyMinutesDown": {
-      "2023-02-20": 52,
+      "2023-02-20": 53,
       "2023-02-19": 40,
       "2023-02-18": 99,
       "2023-02-17": 15,
@@ -385,9 +385,9 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "75.77%",
-    "uptimeWeek": "67.49%",
-    "uptimeMonth": "88.35%",
+    "uptimeDay": "76.35%",
+    "uptimeWeek": "67.57%",
+    "uptimeMonth": "88.32%",
     "uptimeYear": "98.93%",
     "time": 4320,
     "timeDay": 6264,
@@ -395,7 +395,7 @@
     "timeMonth": 6319,
     "timeYear": 4320,
     "dailyMinutesDown": {
-      "2023-02-20": 350,
+      "2023-02-20": 342,
       "2023-02-19": 318,
       "2023-02-18": 425,
       "2023-02-17": 204,
@@ -407,7 +407,8 @@
       "2023-02-11": 418,
       "2023-02-10": 272,
       "2023-02-09": 240,
-      "2023-02-08": 271
+      "2023-02-08": 271,
+      "2023-02-07": 18
     }
   }
 ]
