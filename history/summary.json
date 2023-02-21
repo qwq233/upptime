@@ -6,9 +6,9 @@
     "slug": "blog",
     "status": "up",
     "uptime": "88.29%",
-    "uptimeDay": "94.28%",
-    "uptimeWeek": "82.14%",
-    "uptimeMonth": "91.59%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "82.26%",
+    "uptimeMonth": "91.62%",
     "uptimeYear": "88.29%",
     "time": 2987,
     "timeDay": 11646,
@@ -16,7 +16,6 @@
     "timeMonth": 4160,
     "timeYear": 2987,
     "dailyMinutesDown": {
-      "2023-02-21": 13,
       "2023-02-20": 70,
       "2023-02-19": 40,
       "2023-02-18": 99,
@@ -130,7 +129,7 @@
     "uptimeMonth": "91.40%",
     "uptimeYear": "87.03%",
     "time": 1680,
-    "timeDay": 2868,
+    "timeDay": 2724,
     "timeWeek": 2530,
     "timeMonth": 2488,
     "timeYear": 1680,
@@ -247,7 +246,7 @@
     "uptimeYear": "86.85%",
     "time": 1542,
     "timeDay": 6456,
-    "timeWeek": 2792,
+    "timeWeek": 2810,
     "timeMonth": 2236,
     "timeYear": 1542,
     "dailyMinutesDown": {
@@ -354,13 +353,13 @@
     "slug": "next-cloud",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "85.16%",
+    "uptimeDay": "85.70%",
     "uptimeWeek": "70.48%",
     "uptimeMonth": "89.13%",
     "uptimeYear": "99.00%",
     "time": 3447,
     "timeDay": 5785,
-    "timeWeek": 4600,
+    "timeWeek": 4625,
     "timeMonth": 4655,
     "timeYear": 3447,
     "dailyMinutesDown": {
@@ -387,11 +386,11 @@
     "url": "https://apk.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "80.92%",
+    "uptimeDay": "80.88%",
     "uptimeWeek": "68.46%",
-    "uptimeMonth": "88.31%",
+    "uptimeMonth": "88.37%",
     "uptimeYear": "98.93%",
     "time": 4376,
     "timeDay": 8181,
@@ -399,7 +398,7 @@
     "timeMonth": 6404,
     "timeYear": 4376,
     "dailyMinutesDown": {
-      "2023-02-21": 22,
+      "2023-02-21": 23,
       "2023-02-20": 342,
       "2023-02-19": 318,
       "2023-02-18": 425,
@@ -412,7 +411,7 @@
       "2023-02-11": 418,
       "2023-02-10": 272,
       "2023-02-09": 240,
-      "2023-02-08": 271
+      "2023-02-08": 247
     }
   }
 ]
