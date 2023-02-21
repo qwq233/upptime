@@ -12,7 +12,7 @@
     "uptimeYear": "88.29%",
     "time": 2989,
     "timeDay": 11989,
-    "timeWeek": 6234,
+    "timeWeek": 5938,
     "timeMonth": 4175,
     "timeYear": 2989,
     "dailyMinutesDown": {
@@ -122,11 +122,11 @@
     "url": "https://pass.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/pass.qwq2333.top.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "87.03%",
-    "uptimeDay": "94.61%",
-    "uptimeWeek": "83.13%",
-    "uptimeMonth": "91.44%",
+    "uptimeDay": "94.42%",
+    "uptimeWeek": "83.10%",
+    "uptimeMonth": "91.43%",
     "uptimeYear": "87.03%",
     "time": 1673,
     "timeDay": 2611,
@@ -134,6 +134,7 @@
     "timeMonth": 2474,
     "timeYear": 1673,
     "dailyMinutesDown": {
+      "2023-02-21": 3,
       "2023-02-20": 78,
       "2023-02-19": 17,
       "2023-02-18": 170,
@@ -245,7 +246,7 @@
     "uptimeYear": "86.85%",
     "time": 1542,
     "timeDay": 5846,
-    "timeWeek": 2804,
+    "timeWeek": 2821,
     "timeMonth": 2236,
     "timeYear": 1542,
     "dailyMinutesDown": {
@@ -350,19 +351,19 @@
     "url": "https://cloud.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.qwq2333.top.ico",
     "slug": "next-cloud",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "84.95%",
-    "uptimeWeek": "70.66%",
-    "uptimeMonth": "89.16%",
-    "uptimeYear": "99.00%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "84.90%",
+    "uptimeWeek": "70.65%",
+    "uptimeMonth": "89.22%",
+    "uptimeYear": "99.01%",
     "time": 3443,
     "timeDay": 5870,
     "timeWeek": 4584,
     "timeMonth": 4659,
     "timeYear": 3443,
     "dailyMinutesDown": {
-      "2023-02-21": 109,
+      "2023-02-21": 110,
       "2023-02-20": 128,
       "2023-02-19": 210,
       "2023-02-18": 531,
@@ -377,7 +378,7 @@
       "2023-02-09": 52,
       "2023-02-08": 355,
       "2023-02-07": 246,
-      "2023-02-06": 123
+      "2023-02-06": 94
     }
   },
   {
@@ -387,9 +388,9 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "79.53%",
-    "uptimeWeek": "68.25%",
-    "uptimeMonth": "88.34%",
+    "uptimeDay": "80.20%",
+    "uptimeWeek": "68.35%",
+    "uptimeMonth": "88.32%",
     "uptimeYear": "98.93%",
     "time": 4351,
     "timeDay": 6895,
@@ -397,7 +398,6 @@
     "timeMonth": 6359,
     "timeYear": 4351,
     "dailyMinutesDown": {
-      "2023-02-21": 10,
       "2023-02-20": 342,
       "2023-02-19": 318,
       "2023-02-18": 425,
@@ -410,7 +410,8 @@
       "2023-02-11": 418,
       "2023-02-10": 272,
       "2023-02-09": 240,
-      "2023-02-08": 271
+      "2023-02-08": 271,
+      "2023-02-07": 18
     }
   }
 ]
