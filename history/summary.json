@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "88.32%",
     "uptimeDay": "98.44%",
-    "uptimeWeek": "89.23%",
+    "uptimeWeek": "89.50%",
     "uptimeMonth": "91.57%",
     "uptimeYear": "88.32%",
     "time": 2995,
@@ -126,7 +126,7 @@
     "status": "up",
     "uptime": "87.05%",
     "uptimeDay": "94.84%",
-    "uptimeWeek": "89.93%",
+    "uptimeWeek": "90.20%",
     "uptimeMonth": "91.27%",
     "uptimeYear": "87.05%",
     "time": 1683,
@@ -242,7 +242,7 @@
     "status": "up",
     "uptime": "86.90%",
     "uptimeDay": "97.49%",
-    "uptimeWeek": "87.40%",
+    "uptimeWeek": "87.68%",
     "uptimeMonth": "90.25%",
     "uptimeYear": "86.90%",
     "time": 1558,
@@ -350,11 +350,11 @@
     "url": "https://cloud.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.qwq2333.top.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "83.95%",
-    "uptimeWeek": "76.58%",
-    "uptimeMonth": "88.96%",
+    "uptimeDay": "83.82%",
+    "uptimeWeek": "76.83%",
+    "uptimeMonth": "89.02%",
     "uptimeYear": "98.99%",
     "time": 3465,
     "timeDay": 4240,
@@ -362,7 +362,7 @@
     "timeMonth": 4657,
     "timeYear": 3465,
     "dailyMinutesDown": {
-      "2023-02-22": 72,
+      "2023-02-22": 74,
       "2023-02-21": 269,
       "2023-02-20": 128,
       "2023-02-19": 210,
@@ -377,7 +377,7 @@
       "2023-02-10": 284,
       "2023-02-09": 52,
       "2023-02-08": 355,
-      "2023-02-07": 223
+      "2023-02-07": 195
     }
   },
   {
@@ -385,14 +385,14 @@
     "url": "https://apk.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "87.66%",
-    "uptimeWeek": "75.82%",
-    "uptimeMonth": "88.26%",
-    "uptimeYear": "98.92%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "87.64%",
+    "uptimeWeek": "76.09%",
+    "uptimeMonth": "88.32%",
+    "uptimeYear": "98.93%",
     "time": 4425,
-    "timeDay": 7479,
+    "timeDay": 7806,
     "timeWeek": 6794,
     "timeMonth": 6456,
     "timeYear": 4425,
@@ -411,7 +411,7 @@
       "2023-02-11": 418,
       "2023-02-10": 272,
       "2023-02-09": 240,
-      "2023-02-08": 139
+      "2023-02-08": 113
     }
   }
 ]
