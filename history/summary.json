@@ -353,19 +353,19 @@
     "url": "https://cloud.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.qwq2333.top.ico",
     "slug": "next-cloud",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "88.52%",
-    "uptimeWeek": "82.21%",
-    "uptimeMonth": "88.91%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "88.45%",
+    "uptimeWeek": "82.20%",
+    "uptimeMonth": "89.03%",
+    "uptimeYear": "99.00%",
     "time": 3481,
-    "timeDay": 3906,
+    "timeDay": 4023,
     "timeWeek": 4407,
     "timeMonth": 4640,
     "timeYear": 3481,
     "dailyMinutesDown": {
-      "2023-02-23": 24,
+      "2023-02-23": 25,
       "2023-02-22": 213,
       "2023-02-21": 269,
       "2023-02-20": 128,
@@ -381,7 +381,7 @@
       "2023-02-10": 284,
       "2023-02-09": 52,
       "2023-02-08": 355,
-      "2023-02-07": 79
+      "2023-02-07": 28
     }
   },
   {
@@ -390,18 +390,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "87.96%",
-    "uptimeWeek": "82.03%",
-    "uptimeMonth": "88.37%",
-    "uptimeYear": "98.94%",
+    "uptime": "98.93%",
+    "uptimeDay": "88.96%",
+    "uptimeWeek": "82.18%",
+    "uptimeMonth": "88.26%",
+    "uptimeYear": "98.93%",
     "time": 4466,
     "timeDay": 5767,
     "timeWeek": 6858,
     "timeMonth": 6466,
     "timeYear": 4466,
     "dailyMinutesDown": {
-      "2023-02-23": 14,
       "2023-02-22": 261,
       "2023-02-21": 94,
       "2023-02-20": 342,
@@ -415,7 +414,7 @@
       "2023-02-12": 367,
       "2023-02-11": 418,
       "2023-02-10": 272,
-      "2023-02-09": 141
+      "2023-02-09": 204
     }
   }
 ]
