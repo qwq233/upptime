@@ -4,15 +4,15 @@
     "url": "https://qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/qwq2333.top.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "88.66%",
-    "uptimeDay": "87.17%",
+    "status": "down",
+    "uptime": "88.72%",
+    "uptimeDay": "87.16%",
     "uptimeWeek": "95.76%",
     "uptimeMonth": "90.85%",
-    "uptimeYear": "88.66%",
+    "uptimeYear": "88.72%",
     "time": 2991,
     "timeDay": 2779,
-    "timeWeek": 4945,
+    "timeWeek": 4991,
     "timeMonth": 4067,
     "timeYear": 2991,
     "dailyMinutesDown": {
@@ -113,8 +113,7 @@
       "2022-06-17": 41,
       "2022-06-16": 45,
       "2022-06-15": 126,
-      "2022-06-08": 178,
-      "2022-06-07": 289
+      "2022-06-08": 178
     }
   },
   {
@@ -130,7 +129,7 @@
     "uptimeYear": "87.17%",
     "time": 1751,
     "timeDay": 894,
-    "timeWeek": 2568,
+    "timeWeek": 2596,
     "timeMonth": 2569,
     "timeYear": 1751,
     "dailyMinutesDown": {
@@ -245,12 +244,12 @@
     "status": "up",
     "uptime": "93.54%",
     "uptimeDay": "90.14%",
-    "uptimeWeek": "95.11%",
+    "uptimeWeek": "95.29%",
     "uptimeMonth": "89.66%",
     "uptimeYear": "93.54%",
     "time": 1634,
     "timeDay": 2700,
-    "timeWeek": 2941,
+    "timeWeek": 2966,
     "timeMonth": 2335,
     "timeYear": 1634,
     "dailyMinutesDown": {
@@ -327,11 +326,11 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "76.99%",
-    "uptimeWeek": "83.04%",
+    "uptimeWeek": "83.09%",
     "uptimeMonth": "88.83%",
     "uptimeYear": "98.99%",
     "time": 3628,
-    "timeDay": 3857,
+    "timeDay": 4025,
     "timeWeek": 4922,
     "timeMonth": 4788,
     "timeYear": 3628,
@@ -361,17 +360,17 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "82.82%",
-    "uptimeWeek": "84.40%",
-    "uptimeMonth": "88.89%",
+    "uptimeDay": "83.65%",
+    "uptimeWeek": "84.66%",
+    "uptimeMonth": "88.87%",
     "uptimeYear": "98.99%",
     "time": 4538,
-    "timeDay": 5888,
-    "timeWeek": 6426,
+    "timeDay": 6095,
+    "timeWeek": 6445,
     "timeMonth": 6380,
     "timeYear": 4538,
     "dailyMinutesDown": {
-      "2023-02-26": 40,
+      "2023-02-26": 28,
       "2023-02-25": 258,
       "2023-02-24": 210,
       "2023-02-23": 215,
@@ -385,7 +384,7 @@
       "2023-02-15": 1073,
       "2023-02-14": 696,
       "2023-02-13": 259,
-      "2023-02-12": 260
+      "2023-02-12": 279
     }
   }
 ]
