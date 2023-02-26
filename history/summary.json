@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/qwq2333.top.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "88.78%",
-    "uptimeDay": "85.27%",
-    "uptimeWeek": "95.31%",
-    "uptimeMonth": "90.70%",
-    "uptimeYear": "88.78%",
+    "uptime": "88.75%",
+    "uptimeDay": "85.83%",
+    "uptimeWeek": "95.39%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "88.75%",
     "time": 2980,
     "timeDay": 2095,
     "timeWeek": 4454,
     "timeMonth": 4001,
     "timeYear": 2980,
     "dailyMinutesDown": {
-      "2023-02-26": 189,
+      "2023-02-26": 181,
       "2023-02-25": 62,
       "2023-02-24": 83,
       "2023-02-23": 16,
@@ -111,7 +111,8 @@
       "2022-06-23": 357,
       "2022-06-21": 26,
       "2022-06-17": 41,
-      "2022-06-16": 45
+      "2022-06-16": 45,
+      "2022-06-15": 126
     }
   },
   {
@@ -237,19 +238,19 @@
     "url": "https://api.qwq2333.top/qa/user/query",
     "icon": "https://icons.duckduckgo.com/ip3/api.qwq2333.top.ico",
     "slug": "auth-server",
-    "status": "up",
-    "uptime": "93.56%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "95.26%",
-    "uptimeMonth": "89.56%",
-    "uptimeYear": "93.56%",
+    "status": "down",
+    "uptime": "93.80%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "89.55%",
+    "uptimeYear": "93.80%",
     "time": 1642,
     "timeDay": 4146,
     "timeWeek": 2971,
     "timeMonth": 2341,
     "timeYear": 1642,
     "dailyMinutesDown": {
-      "2023-02-26": 62,
+      "2023-02-26": 64,
       "2023-02-25": 124,
       "2023-02-24": 84,
       "2023-02-23": 66,
@@ -307,9 +308,7 @@
       "2022-08-26": 428,
       "2022-08-02": 309,
       "2022-08-01": 300,
-      "2022-07-31": 511,
-      "2022-07-28": 982,
-      "2022-07-27": 192
+      "2022-07-31": 511
     }
   },
   {
@@ -320,8 +319,8 @@
     "status": "down",
     "uptime": "99.00%",
     "uptimeDay": "79.07%",
-    "uptimeWeek": "82.36%",
-    "uptimeMonth": "88.95%",
+    "uptimeWeek": "82.21%",
+    "uptimeMonth": "88.90%",
     "uptimeYear": "99.00%",
     "time": 3645,
     "timeDay": 4073,
@@ -329,7 +328,7 @@
     "timeMonth": 4791,
     "timeYear": 3645,
     "dailyMinutesDown": {
-      "2023-02-26": 245,
+      "2023-02-26": 267,
       "2023-02-25": 301,
       "2023-02-24": 314,
       "2023-02-23": 260,
@@ -353,9 +352,9 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "75.00%",
-    "uptimeWeek": "83.14%",
-    "uptimeMonth": "88.88%",
+    "uptimeDay": "75.43%",
+    "uptimeWeek": "83.20%",
+    "uptimeMonth": "88.86%",
     "uptimeYear": "98.99%",
     "time": 4541,
     "timeDay": 5270,
@@ -363,7 +362,7 @@
     "timeMonth": 6328,
     "timeYear": 4541,
     "dailyMinutesDown": {
-      "2023-02-26": 320,
+      "2023-02-26": 314,
       "2023-02-25": 258,
       "2023-02-24": 210,
       "2023-02-23": 215,
@@ -376,7 +375,7 @@
       "2023-02-16": 216,
       "2023-02-15": 1073,
       "2023-02-14": 696,
-      "2023-02-13": 241
+      "2023-02-13": 259
     }
   }
 ]
