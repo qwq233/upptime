@@ -310,18 +310,19 @@
     "url": "https://cloud.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.qwq2333.top.ico",
     "slug": "next-cloud",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "83.30%",
-    "uptimeWeek": "81.50%",
-    "uptimeMonth": "88.81%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "83.27%",
+    "uptimeWeek": "82.04%",
+    "uptimeMonth": "88.84%",
+    "uptimeYear": "99.00%",
     "time": 3686,
     "timeDay": 4798,
-    "timeWeek": 5028,
+    "timeWeek": 5059,
     "timeMonth": 4833,
     "timeYear": 3686,
     "dailyMinutesDown": {
+      "2023-02-28": 0,
       "2023-02-27": 241,
       "2023-02-26": 321,
       "2023-02-25": 301,
@@ -336,7 +337,7 @@
       "2023-02-16": 218,
       "2023-02-15": 1007,
       "2023-02-14": 529,
-      "2023-02-13": 119
+      "2023-02-13": 103
     }
   },
   {
