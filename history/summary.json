@@ -313,12 +313,12 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "84.00%",
-    "uptimeWeek": "81.49%",
+    "uptimeWeek": "81.63%",
     "uptimeMonth": "88.73%",
     "uptimeYear": "98.99%",
     "time": 3686,
     "timeDay": 3727,
-    "timeWeek": 4989,
+    "timeWeek": 5009,
     "timeMonth": 4810,
     "timeYear": 3686,
     "dailyMinutesDown": {
@@ -345,12 +345,12 @@
     "url": "https://apk.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "90.33%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "90.30%",
     "uptimeWeek": "84.99%",
-    "uptimeMonth": "88.81%",
-    "uptimeYear": "98.99%",
+    "uptimeMonth": "88.87%",
+    "uptimeYear": "99.00%",
     "time": 4576,
     "timeDay": 6023,
     "timeWeek": 5766,
@@ -372,7 +372,7 @@
       "2023-02-16": 216,
       "2023-02-15": 1073,
       "2023-02-14": 696,
-      "2023-02-13": 99
+      "2023-02-13": 71
     }
   }
 ]
