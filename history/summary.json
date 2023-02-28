@@ -120,18 +120,19 @@
     "url": "https://pass.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/pass.qwq2333.top.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "87.38%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "87.46%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "96.15%",
     "uptimeMonth": "90.55%",
-    "uptimeYear": "87.38%",
+    "uptimeYear": "87.46%",
     "time": 1741,
     "timeDay": 1751,
     "timeWeek": 2327,
     "timeMonth": 2498,
     "timeYear": 1741,
     "dailyMinutesDown": {
+      "2023-02-28": 1,
       "2023-02-26": 176,
       "2023-02-25": 57,
       "2023-02-24": 39,
@@ -229,8 +230,7 @@
       "2022-06-07": 289,
       "2022-06-05": 24,
       "2022-05-31": 43,
-      "2022-05-23": 19,
-      "2022-04-30": 405
+      "2022-05-23": 19
     }
   },
   {
@@ -240,7 +240,7 @@
     "slug": "auth-server",
     "status": "up",
     "uptime": "94.61%",
-    "uptimeDay": "92.50%",
+    "uptimeDay": "93.31%",
     "uptimeWeek": "95.04%",
     "uptimeMonth": "89.26%",
     "uptimeYear": "94.61%",
@@ -312,17 +312,17 @@
     "slug": "next-cloud",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "80.02%",
-    "uptimeWeek": "81.16%",
-    "uptimeMonth": "88.78%",
+    "uptimeDay": "82.63%",
+    "uptimeWeek": "81.24%",
+    "uptimeMonth": "88.73%",
     "uptimeYear": "98.99%",
     "time": 3681,
-    "timeDay": 4280,
-    "timeWeek": 4955,
+    "timeDay": 4400,
+    "timeWeek": 4983,
     "timeMonth": 4808,
     "timeYear": 3681,
     "dailyMinutesDown": {
-      "2023-02-28": 89,
+      "2023-02-28": 81,
       "2023-02-27": 241,
       "2023-02-26": 321,
       "2023-02-25": 301,
@@ -337,7 +337,7 @@
       "2023-02-16": 218,
       "2023-02-15": 1007,
       "2023-02-14": 529,
-      "2023-02-13": 42
+      "2023-02-13": 73
     }
   },
   {
@@ -353,7 +353,7 @@
     "uptimeYear": "98.99%",
     "time": 4576,
     "timeDay": 6023,
-    "timeWeek": 5887,
+    "timeWeek": 5871,
     "timeMonth": 6337,
     "timeYear": 4576,
     "dailyMinutesDown": {
