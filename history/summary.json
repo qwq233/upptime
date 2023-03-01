@@ -123,12 +123,12 @@
     "status": "up",
     "uptime": "87.50%",
     "uptimeDay": "95.83%",
-    "uptimeWeek": "96.08%",
+    "uptimeWeek": "96.31%",
     "uptimeMonth": "93.08%",
     "uptimeYear": "87.50%",
     "time": 1743,
     "timeDay": 1722,
-    "timeWeek": 2227,
+    "timeWeek": 2115,
     "timeMonth": 2517,
     "timeYear": 1743,
     "dailyMinutesDown": {
@@ -296,18 +296,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.qwq2333.top.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "77.11%",
-    "uptimeWeek": "80.26%",
-    "uptimeMonth": "88.47%",
-    "uptimeYear": "98.97%",
+    "uptime": "98.96%",
+    "uptimeDay": "77.64%",
+    "uptimeWeek": "80.34%",
+    "uptimeMonth": "88.42%",
+    "uptimeYear": "98.96%",
     "time": 3696,
     "timeDay": 3863,
-    "timeWeek": 4960,
+    "timeWeek": 4954,
     "timeMonth": 4836,
     "timeYear": 3696,
     "dailyMinutesDown": {
-      "2023-03-01": 143,
+      "2023-03-01": 135,
       "2023-02-28": 267,
       "2023-02-27": 241,
       "2023-02-26": 321,
@@ -322,7 +322,7 @@
       "2023-02-17": 243,
       "2023-02-16": 218,
       "2023-02-15": 1007,
-      "2023-02-14": 387
+      "2023-02-14": 416
     }
   },
   {
@@ -330,12 +330,12 @@
     "url": "https://apk.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "78.53%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "79.82%",
     "uptimeWeek": "83.62%",
-    "uptimeMonth": "92.45%",
-    "uptimeYear": "99.32%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "99.33%",
     "time": 4585,
     "timeDay": 4747,
     "timeWeek": 5390,
@@ -355,7 +355,7 @@
       "2023-02-19": 318,
       "2023-02-18": 425,
       "2023-02-17": 204,
-      "2023-02-16": 158
+      "2023-02-16": 136
     }
   }
 ]
