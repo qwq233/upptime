@@ -122,9 +122,9 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "87.53%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "96.42%",
-    "uptimeMonth": "93.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.50%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "87.53%",
     "time": 1747,
     "timeDay": 2106,
@@ -132,7 +132,6 @@
     "timeMonth": 2514,
     "timeYear": 1747,
     "dailyMinutesDown": {
-      "2023-03-02": 8,
       "2023-03-01": 23,
       "2023-02-28": 59,
       "2023-02-26": 176,
@@ -229,7 +228,8 @@
       "2022-06-16": 45,
       "2022-06-15": 125,
       "2022-06-08": 178,
-      "2022-06-07": 289
+      "2022-06-07": 289,
+      "2022-06-05": 24
     }
   },
   {
@@ -293,12 +293,12 @@
     "url": "https://cloud.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.qwq2333.top.ico",
     "slug": "next-cloud",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "88.40%",
-    "uptimeWeek": "80.32%",
-    "uptimeMonth": "91.42%",
-    "uptimeYear": "99.23%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "88.38%",
+    "uptimeWeek": "80.45%",
+    "uptimeMonth": "91.47%",
+    "uptimeYear": "99.24%",
     "time": 3731,
     "timeDay": 6033,
     "timeWeek": 5181,
@@ -319,7 +319,7 @@
       "2023-02-19": 210,
       "2023-02-18": 531,
       "2023-02-17": 243,
-      "2023-02-16": 160
+      "2023-02-16": 137
     }
   },
   {
