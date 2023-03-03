@@ -239,17 +239,16 @@
     "slug": "auth-server",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "93.95%",
-    "uptimeMonth": "91.56%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "94.20%",
+    "uptimeMonth": "91.58%",
     "uptimeYear": "98.73%",
     "time": 1635,
     "timeDay": 1268,
-    "timeWeek": 1863,
+    "timeWeek": 1888,
     "timeMonth": 2301,
     "timeYear": 1635,
     "dailyMinutesDown": {
-      "2023-03-03": 8,
       "2023-03-02": 57,
       "2023-03-01": 43,
       "2023-02-28": 103,
@@ -283,7 +282,8 @@
       "2023-01-23": 29,
       "2023-01-13": 34,
       "2022-10-06": 985,
-      "2022-10-05": 253
+      "2022-10-05": 253,
+      "2022-10-03": 40
     }
   },
   {
@@ -293,13 +293,13 @@
     "slug": "next-cloud",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "90.52%",
+    "uptimeDay": "91.14%",
     "uptimeWeek": "81.40%",
     "uptimeMonth": "91.42%",
     "uptimeYear": "99.23%",
     "time": 3737,
-    "timeDay": 4184,
-    "timeWeek": 4754,
+    "timeDay": 4143,
+    "timeWeek": 4748,
     "timeMonth": 4855,
     "timeYear": 3737,
     "dailyMinutesDown": {
@@ -326,15 +326,15 @@
     "url": "https://apk.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "76.51%",
-    "uptimeWeek": "83.26%",
-    "uptimeMonth": "92.21%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "76.48%",
+    "uptimeWeek": "83.25%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "99.31%",
     "time": 4631,
-    "timeDay": 6568,
-    "timeWeek": 5475,
+    "timeDay": 6913,
+    "timeWeek": 5485,
     "timeMonth": 6351,
     "timeYear": 4631,
     "dailyMinutesDown": {
@@ -351,8 +351,7 @@
       "2023-02-21": 94,
       "2023-02-20": 342,
       "2023-02-19": 318,
-      "2023-02-18": 425,
-      "2023-02-17": 26
+      "2023-02-18": 425
     }
   }
 ]
