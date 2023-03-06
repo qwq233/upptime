@@ -4,18 +4,19 @@
     "url": "https://qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/qwq2333.top.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "89.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "89.02%",
+    "status": "down",
+    "uptime": "89.03%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "89.03%",
     "time": 2954,
     "timeDay": 2895,
     "timeWeek": 2350,
     "timeMonth": 3876,
     "timeYear": 2954,
     "dailyMinutesDown": {
+      "2023-03-06": 4,
       "2023-03-03": 19,
       "2023-03-02": 17,
       "2023-02-28": 45,
@@ -111,8 +112,7 @@
       "2022-06-26": 1440,
       "2022-06-25": 1440,
       "2022-06-24": 1440,
-      "2022-06-23": 357,
-      "2022-06-21": 26
+      "2022-06-23": 357
     }
   },
   {
@@ -120,18 +120,19 @@
     "url": "https://pass.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/pass.qwq2333.top.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "87.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.56%",
+    "status": "down",
+    "uptime": "87.77%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "97.54%",
     "uptimeMonth": "93.32%",
-    "uptimeYear": "87.76%",
+    "uptimeYear": "87.77%",
     "time": 1735,
     "timeDay": 1526,
     "timeWeek": 1658,
     "timeMonth": 2368,
     "timeYear": 1735,
     "dailyMinutesDown": {
+      "2023-03-06": 3,
       "2023-03-03": 110,
       "2023-03-02": 53,
       "2023-03-01": 23,
@@ -226,8 +227,7 @@
       "2022-06-24": 1440,
       "2022-06-23": 355,
       "2022-06-21": 24,
-      "2022-06-17": 41,
-      "2022-06-16": 19
+      "2022-06-17": 41
     }
   },
   {
@@ -235,10 +235,10 @@
     "url": "https://api.qwq2333.top/qa/user/query",
     "icon": "https://icons.duckduckgo.com/ip3/api.qwq2333.top.ico",
     "slug": "auth-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "94.93%",
-    "uptimeWeek": "95.50%",
+    "uptimeDay": "94.85%",
+    "uptimeWeek": "95.57%",
     "uptimeMonth": "91.90%",
     "uptimeYear": "98.98%",
     "time": 1683,
@@ -247,6 +247,7 @@
     "timeMonth": 2468,
     "timeYear": 1683,
     "dailyMinutesDown": {
+      "2023-03-06": 1,
       "2023-03-05": 73,
       "2023-03-03": 49,
       "2023-03-02": 57,
@@ -278,8 +279,7 @@
       "2023-02-03": 43,
       "2023-01-31": 29,
       "2023-01-29": 1045,
-      "2023-01-28": 145,
-      "2023-01-23": 29
+      "2023-01-28": 145
     }
   },
   {
@@ -324,14 +324,14 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "86.26%",
+    "uptimeDay": "96.19%",
     "uptimeWeek": "78.46%",
     "uptimeMonth": "90.05%",
     "uptimeYear": "99.12%",
     "time": 4613,
     "timeDay": 2460,
     "timeWeek": 5176,
-    "timeMonth": 6174,
+    "timeMonth": 6181,
     "timeYear": 4613,
     "dailyMinutesDown": {
       "2023-03-05": 253,
