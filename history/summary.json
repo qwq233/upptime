@@ -4,18 +4,19 @@
     "url": "https://qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/qwq2333.top.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "95.39%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.49%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "94.87%",
+    "uptimeYear": "94.99%",
     "time": 2858,
     "timeDay": 2701,
     "timeWeek": 2926,
     "timeMonth": 2556,
     "timeYear": 2893,
     "dailyMinutesDown": {
+      "2023-05-07": 0,
       "2023-04-17": 18,
       "2023-03-06": 19,
       "2023-03-03": 19,
@@ -92,9 +93,7 @@
       "2022-07-21": 300,
       "2022-07-20": 178,
       "2022-07-17": 400,
-      "2022-07-16": 309,
-      "2022-07-13": 341,
-      "2022-07-12": 243
+      "2022-07-16": 309
     }
   },
   {
@@ -218,7 +217,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.qwq2333.top.ico",
     "slug": "auth-server",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
