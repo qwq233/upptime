@@ -13,7 +13,7 @@
     "time": 2859,
     "timeDay": 2554,
     "timeWeek": 2891,
-    "timeMonth": 2766,
+    "timeMonth": 2784,
     "timeYear": 2891,
     "dailyMinutesDown": {
       "2023-05-13": 27,
@@ -215,18 +215,19 @@
     "url": "https://api.qwq2333.top/qa/user/query",
     "icon": "https://icons.duckduckgo.com/ip3/api.qwq2333.top.ico",
     "slug": "auth-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 1601,
     "timeDay": 16579,
     "timeWeek": 3049,
-    "timeMonth": 1337,
+    "timeMonth": 1347,
     "timeYear": 1653,
     "dailyMinutesDown": {
+      "2023-05-13": 0,
       "2023-03-09": 31,
       "2023-03-06": 16,
       "2023-03-05": 73,
@@ -257,8 +258,7 @@
       "2023-02-06": 42,
       "2023-02-05": 62,
       "2023-02-04": 156,
-      "2023-02-03": 43,
-      "2023-01-31": 29
+      "2023-02-03": 43
     }
   },
   {
@@ -268,9 +268,9 @@
     "slug": "next-cloud",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 3530,
     "timeDay": 14465,
@@ -278,7 +278,6 @@
     "timeMonth": 2333,
     "timeYear": 3636,
     "dailyMinutesDown": {
-      "2023-05-13": 9,
       "2023-03-04": 42,
       "2023-03-03": 276,
       "2023-03-02": 175,
@@ -294,7 +293,7 @@
       "2023-02-20": 128,
       "2023-02-19": 210,
       "2023-02-18": 531,
-      "2023-02-17": 58
+      "2023-02-17": 77
     }
   },
   {
@@ -304,9 +303,9 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
     "time": 4407,
     "timeDay": 11224,
@@ -314,7 +313,6 @@
     "timeMonth": 2839,
     "timeYear": 4618,
     "dailyMinutesDown": {
-      "2023-05-13": 8,
       "2023-03-05": 253,
       "2023-03-04": 757,
       "2023-03-03": 418,
@@ -330,7 +328,7 @@
       "2023-02-21": 94,
       "2023-02-20": 342,
       "2023-02-19": 318,
-      "2023-02-18": 106
+      "2023-02-18": 136
     }
   }
 ]
