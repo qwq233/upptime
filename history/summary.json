@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/qwq2333.top.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "95.68%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "95.12%",
+    "uptime": "95.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "94.98%",
     "time": 2860,
     "timeDay": 3047,
     "timeWeek": 2999,
     "timeMonth": 2789,
     "timeYear": 2893,
     "dailyMinutesDown": {
-      "2023-05-13": 8,
       "2023-05-07": 15,
       "2023-04-17": 18,
       "2023-03-06": 19,
@@ -92,7 +91,9 @@
       "2022-07-23": 47,
       "2022-07-22": 296,
       "2022-07-21": 300,
-      "2022-07-20": 178
+      "2022-07-20": 178,
+      "2022-07-17": 400,
+      "2022-07-16": 309
     }
   },
   {
@@ -100,18 +101,19 @@
     "url": "https://pass.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/pass.qwq2333.top.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "89.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "88.48%",
+    "uptimeYear": "88.49%",
     "time": 1634,
     "timeDay": 1075,
     "timeWeek": 968,
     "timeMonth": 1049,
     "timeYear": 1680,
     "dailyMinutesDown": {
+      "2023-05-13": 1,
       "2023-04-17": 16,
       "2023-03-06": 17,
       "2023-03-03": 110,
@@ -206,8 +208,7 @@
       "2022-06-26": 1440,
       "2022-06-25": 1440,
       "2022-06-24": 1440,
-      "2022-06-23": 355,
-      "2022-06-21": 24
+      "2022-06-23": 355
     }
   },
   {
