@@ -14,7 +14,7 @@
     "timeDay": 2554,
     "timeWeek": 2891,
     "timeMonth": 2784,
-    "timeYear": 2891,
+    "timeYear": 2894,
     "dailyMinutesDown": {
       "2023-05-13": 27,
       "2023-05-07": 15,
@@ -110,7 +110,7 @@
     "timeDay": 838,
     "timeWeek": 964,
     "timeMonth": 1033,
-    "timeYear": 1675,
+    "timeYear": 1674,
     "dailyMinutesDown": {
       "2023-05-13": 18,
       "2023-04-17": 16,
@@ -217,17 +217,16 @@
     "slug": "auth-server",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
     "time": 1600,
     "timeDay": 8804,
     "timeWeek": 2796,
     "timeMonth": 1337,
-    "timeYear": 1652,
+    "timeYear": 1653,
     "dailyMinutesDown": {
-      "2023-05-13": 11,
       "2023-03-09": 31,
       "2023-03-06": 16,
       "2023-03-05": 73,
@@ -258,7 +257,8 @@
       "2023-02-06": 42,
       "2023-02-05": 62,
       "2023-02-04": 156,
-      "2023-02-03": 43
+      "2023-02-03": 43,
+      "2023-01-31": 29
     }
   },
   {
@@ -276,7 +276,7 @@
     "timeDay": 14465,
     "timeWeek": 4679,
     "timeMonth": 2333,
-    "timeYear": 3636,
+    "timeYear": 3640,
     "dailyMinutesDown": {
       "2023-03-04": 42,
       "2023-03-03": 276,
@@ -311,7 +311,7 @@
     "timeDay": 11224,
     "timeWeek": 4558,
     "timeMonth": 2839,
-    "timeYear": 4618,
+    "timeYear": 4623,
     "dailyMinutesDown": {
       "2023-03-05": 253,
       "2023-03-04": 757,
