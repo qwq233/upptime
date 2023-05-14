@@ -101,7 +101,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pass.qwq2333.top.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "89.81%",
+    "uptime": "89.82%",
     "uptimeDay": "98.75%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.92%",
@@ -301,18 +301,19 @@
     "url": "https://apk.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 4407,
     "timeDay": 11224,
     "timeWeek": 4558,
     "timeMonth": 2839,
     "timeYear": 4623,
     "dailyMinutesDown": {
+      "2023-05-14": 0,
       "2023-03-05": 253,
       "2023-03-04": 757,
       "2023-03-03": 418,
@@ -328,7 +329,7 @@
       "2023-02-21": 94,
       "2023-02-20": 342,
       "2023-02-19": 318,
-      "2023-02-18": 136
+      "2023-02-18": 106
     }
   }
 ]
