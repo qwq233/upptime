@@ -96,12 +96,12 @@
     "url": "https://pass.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/pass.qwq2333.top.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "94.58%",
-    "uptimeDay": "97.61%",
+    "status": "down",
+    "uptime": "94.69%",
+    "uptimeDay": "97.60%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "93.86%",
+    "uptimeYear": "93.99%",
     "time": 1652,
     "timeDay": 3122,
     "timeWeek": 2155,
@@ -181,9 +181,7 @@
       "2022-07-23": 46,
       "2022-07-22": 296,
       "2022-07-21": 299,
-      "2022-07-20": 178,
-      "2022-07-17": 400,
-      "2022-07-16": 307
+      "2022-07-20": 178
     }
   },
   {
@@ -193,9 +191,9 @@
     "slug": "auth-server",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.26%",
     "time": 1593,
     "timeDay": 2857,
@@ -203,7 +201,7 @@
     "timeMonth": 1266,
     "timeYear": 1645,
     "dailyMinutesDown": {
-      "2023-05-14": 37,
+      "2023-05-14": 26,
       "2023-03-09": 31,
       "2023-03-06": 16,
       "2023-03-05": 73,
@@ -234,7 +232,7 @@
       "2023-02-06": 42,
       "2023-02-05": 62,
       "2023-02-04": 156,
-      "2023-02-03": 28
+      "2023-02-03": 43
     }
   },
   {
@@ -279,18 +277,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "93.62%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.19%",
+    "uptime": "99.28%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.18%",
     "time": 4442,
     "timeDay": 7217,
     "timeWeek": 5822,
     "timeMonth": 3902,
     "timeYear": 4657,
     "dailyMinutesDown": {
-      "2023-05-14": 92,
+      "2023-05-14": 83,
       "2023-03-05": 253,
       "2023-03-04": 757,
       "2023-03-03": 418,
@@ -305,7 +303,7 @@
       "2023-02-22": 261,
       "2023-02-21": 94,
       "2023-02-20": 342,
-      "2023-02-19": 243
+      "2023-02-19": 318
     }
   }
 ]
