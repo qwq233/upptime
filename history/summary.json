@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
-    "time": 2881,
-    "timeDay": 1058,
-    "timeWeek": 1900,
-    "timeMonth": 2089,
-    "timeYear": 2849,
+    "time": 2879,
+    "timeDay": 2309,
+    "timeWeek": 1850,
+    "timeMonth": 2102,
+    "timeYear": 2850,
     "dailyMinutesDown": {
       "2024-09-20": 15,
       "2024-09-11": 20,
@@ -39,8 +39,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -55,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.89%",
     "time": 1185,
-    "timeDay": 765,
-    "timeWeek": 968,
-    "timeMonth": 949,
+    "timeDay": 996,
+    "timeWeek": 936,
+    "timeMonth": 959,
     "timeYear": 1185,
     "dailyMinutesDown": {
       "2024-09-11": 19,
@@ -80,8 +79,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -92,13 +90,13 @@
     "status": "up",
     "uptime": "97.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.41%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "97.66%",
-    "time": 1099,
-    "timeDay": 890,
-    "timeWeek": 1014,
-    "timeMonth": 921,
+    "time": 1097,
+    "timeDay": 1051,
+    "timeWeek": 917,
+    "timeMonth": 931,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2024-11-07": 29,
@@ -126,8 +124,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -136,15 +133,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.qwq2333.top.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "97.84%",
+    "uptime": "97.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.89%",
-    "time": 1560,
-    "timeDay": 1171,
-    "timeWeek": 1472,
-    "timeMonth": 1373,
+    "time": 1559,
+    "timeDay": 1487,
+    "timeWeek": 1444,
+    "timeMonth": 1381,
     "timeYear": 1560,
     "dailyMinutesDown": {
       "2024-08-28": 42,
@@ -164,8 +161,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -174,15 +170,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "97.15%",
+    "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.86%",
-    "time": 1487,
-    "timeDay": 699,
-    "timeWeek": 861,
-    "timeMonth": 903,
+    "time": 1482,
+    "timeDay": 964,
+    "timeWeek": 845,
+    "timeMonth": 907,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2024-08-28": 41,
@@ -202,8 +198,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   }
 ]
