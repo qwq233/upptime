@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/qwq2333.top.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.20%",
+    "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.54%",
     "time": 2658,
-    "timeDay": 1232,
-    "timeWeek": 1439,
-    "timeMonth": 1717,
-    "timeYear": 2681,
+    "timeDay": 2309,
+    "timeWeek": 1585,
+    "timeMonth": 1751,
+    "timeYear": 2680,
     "dailyMinutesDown": {
       "2025-06-13": 25,
       "2025-05-24": 21,
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.56%",
     "time": 1308,
-    "timeDay": 981,
-    "timeWeek": 1091,
-    "timeMonth": 1052,
+    "timeDay": 1029,
+    "timeWeek": 1063,
+    "timeMonth": 1043,
     "timeYear": 1317,
     "dailyMinutesDown": {
       "2025-06-13": 24,
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.29%",
-    "time": 1209,
-    "timeDay": 845,
-    "timeWeek": 1000,
-    "timeMonth": 976,
-    "timeYear": 1333,
+    "time": 1210,
+    "timeDay": 1254,
+    "timeWeek": 1016,
+    "timeMonth": 983,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2025-06-13": 22,
       "2025-05-18": 30,
@@ -120,8 +120,7 @@
       "2024-08-07": 72,
       "2024-08-02": 20,
       "2024-07-20": 233,
-      "2024-07-12": 148,
-      "2024-07-06": 290
+      "2024-07-12": 148
     }
   },
   {
@@ -135,10 +134,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 1890,
-    "timeDay": 1621,
+    "time": 1891,
+    "timeDay": 1574,
     "timeWeek": 1520,
-    "timeMonth": 2155,
+    "timeMonth": 1499,
     "timeYear": 2014,
     "dailyMinutesDown": {
       "2025-04-17": 23,
@@ -172,10 +171,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 1273,
-    "timeDay": 1064,
-    "timeWeek": 1163,
+    "timeDay": 1227,
+    "timeWeek": 1186,
     "timeMonth": 1009,
-    "timeYear": 1294,
+    "timeYear": 1295,
     "dailyMinutesDown": {
       "2025-04-17": 23,
       "2025-04-04": 420,
@@ -192,8 +191,7 @@
       "2024-08-07": 70,
       "2024-08-02": 18,
       "2024-07-20": 233,
-      "2024-07-12": 146,
-      "2024-07-06": 304
+      "2024-07-12": 146
     }
   }
 ]
