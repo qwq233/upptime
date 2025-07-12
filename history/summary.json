@@ -10,10 +10,10 @@
     "uptimeWeek": "99.09%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.53%",
-    "time": 2713,
-    "timeDay": 1869,
-    "timeWeek": 4740,
-    "timeMonth": 2738,
+    "time": 2714,
+    "timeDay": 2642,
+    "timeWeek": 4848,
+    "timeMonth": 2749,
     "timeYear": 2761,
     "dailyMinutesDown": {
       "2025-07-08": 46,
@@ -38,8 +38,7 @@
       "2024-08-12": 111,
       "2024-08-07": 74,
       "2024-08-02": 31,
-      "2024-07-20": 233,
-      "2024-07-12": 164
+      "2024-07-20": 233
     }
   },
   {
@@ -48,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pass.qwq2333.top.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.55%",
-    "time": 1318,
-    "timeDay": 1457,
-    "timeWeek": 4069,
-    "timeMonth": 2109,
-    "timeYear": 1415,
+    "time": 1319,
+    "timeDay": 1317,
+    "timeWeek": 4095,
+    "timeMonth": 2117,
+    "timeYear": 1416,
     "dailyMinutesDown": {
       "2025-07-08": 31,
       "2025-07-07": 45,
@@ -78,8 +77,7 @@
       "2024-08-12": 110,
       "2024-08-07": 73,
       "2024-08-02": 22,
-      "2024-07-20": 233,
-      "2024-07-12": 149
+      "2024-07-20": 233
     }
   },
   {
@@ -93,11 +91,11 @@
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.33%",
-    "time": 1275,
-    "timeDay": 306,
-    "timeWeek": 3901,
-    "timeMonth": 1995,
-    "timeYear": 1421,
+    "time": 1276,
+    "timeDay": 1451,
+    "timeWeek": 3947,
+    "timeMonth": 2005,
+    "timeYear": 1422,
     "dailyMinutesDown": {
       "2025-07-08": 31,
       "2025-07-07": 44,
@@ -125,8 +123,7 @@
       "2024-08-12": 108,
       "2024-08-07": 72,
       "2024-08-02": 20,
-      "2024-07-20": 233,
-      "2024-07-12": 148
+      "2024-07-20": 233
     }
   },
   {
@@ -140,11 +137,11 @@
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.56%",
-    "time": 1968,
-    "timeDay": 2118,
-    "timeWeek": 4414,
-    "timeMonth": 2550,
-    "timeYear": 2104,
+    "time": 1969,
+    "timeDay": 1936,
+    "timeWeek": 4438,
+    "timeMonth": 2561,
+    "timeYear": 2105,
     "dailyMinutesDown": {
       "2025-07-08": 31,
       "2025-07-07": 43,
@@ -163,8 +160,7 @@
       "2024-08-12": 107,
       "2024-08-07": 70,
       "2024-08-02": 19,
-      "2024-07-20": 233,
-      "2024-07-12": 146
+      "2024-07-20": 233
     }
   },
   {
@@ -178,9 +174,9 @@
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.57%",
-    "time": 1354,
-    "timeDay": 1519,
-    "timeWeek": 4035,
+    "time": 1346,
+    "timeDay": 1097,
+    "timeWeek": 4038,
     "timeMonth": 2111,
     "timeYear": 1390,
     "dailyMinutesDown": {
@@ -200,8 +196,7 @@
       "2024-08-12": 105,
       "2024-08-07": 70,
       "2024-08-02": 18,
-      "2024-07-20": 233,
-      "2024-07-12": 146
+      "2024-07-20": 233
     }
   }
 ]
