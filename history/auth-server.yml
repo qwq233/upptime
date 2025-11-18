@@ -1,7 +1,7 @@
 url: https://api.qwq2333.top/qa/user/query
-status: up
-code: 200
-responseTime: 1062
-lastUpdated: 2025-11-17T23:08:51.655Z
+status: down
+code: 500
+responseTime: 267
+lastUpdated: 2025-11-18T13:05:35.458Z
 startTime: 2022-03-27T07:26:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
