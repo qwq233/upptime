@@ -6,15 +6,15 @@
     "slug": "blog",
     "status": "up",
     "uptime": "97.49%",
-    "uptimeDay": "68.63%",
-    "uptimeWeek": "80.41%",
+    "uptimeDay": "80.25%",
+    "uptimeWeek": "86.09%",
     "uptimeMonth": "88.84%",
     "uptimeYear": "95.32%",
-    "time": 2984,
-    "timeDay": 3363,
-    "timeWeek": 3644,
-    "timeMonth": 2860,
-    "timeYear": 2980,
+    "time": 2985,
+    "timeDay": 1773,
+    "timeWeek": 2728,
+    "timeMonth": 2872,
+    "timeYear": 2979,
     "dailyMinutesDown": {
       "2026-03-13": 369,
       "2026-03-12": 82,
@@ -70,8 +70,7 @@
       "2025-04-04": 420,
       "2025-04-03": 96,
       "2025-03-19": 266,
-      "2025-03-18": 100,
-      "2025-03-14": 22
+      "2025-03-18": 100
     }
   },
   {
@@ -81,14 +80,14 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "97.75%",
-    "uptimeDay": "68.66%",
-    "uptimeWeek": "80.42%",
+    "uptimeDay": "80.25%",
+    "uptimeWeek": "86.10%",
     "uptimeMonth": "92.27%",
     "uptimeYear": "96.16%",
     "time": 2118,
-    "timeDay": 5671,
-    "timeWeek": 4174,
-    "timeMonth": 2854,
+    "timeDay": 1594,
+    "timeWeek": 3332,
+    "timeMonth": 2852,
     "timeYear": 2335,
     "dailyMinutesDown": {
       "2026-03-13": 369,
@@ -141,8 +140,7 @@
       "2025-04-04": 420,
       "2025-04-03": 94,
       "2025-03-19": 266,
-      "2025-03-18": 99,
-      "2025-03-14": 22
+      "2025-03-18": 99
     }
   },
   {
@@ -152,14 +150,14 @@
     "slug": "auth-server",
     "status": "up",
     "uptime": "97.69%",
-    "uptimeDay": "68.68%",
-    "uptimeWeek": "80.44%",
+    "uptimeDay": "80.25%",
+    "uptimeWeek": "86.11%",
     "uptimeMonth": "91.69%",
     "uptimeYear": "96.06%",
     "time": 2085,
-    "timeDay": 5384,
-    "timeWeek": 4251,
-    "timeMonth": 2726,
+    "timeDay": 900,
+    "timeWeek": 3406,
+    "timeMonth": 2719,
     "timeYear": 2410,
     "dailyMinutesDown": {
       "2026-03-13": 369,
@@ -215,8 +213,7 @@
       "2025-04-04": 983,
       "2025-04-03": 93,
       "2025-03-19": 266,
-      "2025-03-18": 97,
-      "2025-03-14": 22
+      "2025-03-18": 97
     }
   },
   {
@@ -226,15 +223,15 @@
     "slug": "next-cloud",
     "status": "up",
     "uptime": "97.61%",
-    "uptimeDay": "68.71%",
-    "uptimeWeek": "80.44%",
+    "uptimeDay": "80.25%",
+    "uptimeWeek": "86.12%",
     "uptimeMonth": "92.70%",
     "uptimeYear": "95.89%",
-    "time": 2682,
-    "timeDay": 5433,
-    "timeWeek": 4493,
-    "timeMonth": 3118,
-    "timeYear": 2935,
+    "time": 2683,
+    "timeDay": 1783,
+    "timeWeek": 3751,
+    "timeMonth": 3128,
+    "timeYear": 2936,
     "dailyMinutesDown": {
       "2026-03-13": 369,
       "2026-03-12": 81,
@@ -285,8 +282,7 @@
       "2025-04-04": 420,
       "2025-04-03": 92,
       "2025-03-19": 266,
-      "2025-03-18": 96,
-      "2025-03-14": 22
+      "2025-03-18": 96
     }
   },
   {
@@ -295,15 +291,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "97.22%",
-    "uptimeDay": "68.73%",
-    "uptimeWeek": "80.46%",
+    "uptime": "97.23%",
+    "uptimeDay": "80.25%",
+    "uptimeWeek": "86.12%",
     "uptimeMonth": "92.90%",
     "uptimeYear": "96.27%",
     "time": 1981,
-    "timeDay": 5086,
-    "timeWeek": 3977,
-    "timeMonth": 2853,
+    "timeDay": 700,
+    "timeWeek": 3128,
+    "timeMonth": 2845,
     "timeYear": 2261,
     "dailyMinutesDown": {
       "2026-03-13": 370,
@@ -350,8 +346,7 @@
       "2025-04-04": 420,
       "2025-04-03": 91,
       "2025-03-19": 266,
-      "2025-03-18": 94,
-      "2025-03-14": 22
+      "2025-03-18": 94
     }
   }
 ]
