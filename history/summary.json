@@ -152,17 +152,17 @@
     "url": "https://api.qwq2333.top/qa/user/query",
     "icon": "https://icons.duckduckgo.com/ip3/api.qwq2333.top.ico",
     "slug": "auth-server",
-    "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "95.87%",
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "63.70%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "95.77%",
     "time": 2207,
-    "timeDay": 950,
-    "timeWeek": 848,
-    "timeMonth": 872,
-    "timeYear": 2370,
+    "timeDay": 947,
+    "timeWeek": 858,
+    "timeMonth": 874,
+    "timeYear": 2367,
     "dailyMinutesDown": {
       "2025-06-13": 22,
       "2025-07-07": 44,
@@ -218,7 +218,7 @@
       "2026-04-20": 57,
       "2026-05-01": 557,
       "2026-04-30": 138,
-      "2026-06-03": 0
+      "2026-06-03": 523
     }
   },
   {
