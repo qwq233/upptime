@@ -4,17 +4,17 @@
     "url": "https://qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/qwq2333.top.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "97.54%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.36%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "97.23%",
     "uptimeYear": "95.44%",
-    "time": 2710,
-    "timeDay": 1049,
-    "timeWeek": 1154,
-    "timeMonth": 2278,
-    "timeYear": 2643,
+    "time": 2709,
+    "timeDay": 1292,
+    "timeWeek": 1233,
+    "timeMonth": 2263,
+    "timeYear": 2641,
     "dailyMinutesDown": {
       "2025-07-22": 1065,
       "2025-07-21": 1440,
@@ -69,7 +69,7 @@
       "2026-06-24": 102,
       "2026-07-12": 848,
       "2026-07-11": 208,
-      "2026-07-20": 1
+      "2026-07-20": 58
     }
   },
   {
@@ -77,17 +77,17 @@
     "url": "https://pass.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/pass.qwq2333.top.ico",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "97.84%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.36%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "97.23%",
     "uptimeYear": "96.26%",
-    "time": 2247,
-    "timeDay": 408,
-    "timeWeek": 6972,
-    "timeMonth": 3239,
-    "timeYear": 2322,
+    "time": 2256,
+    "timeDay": 2371,
+    "timeWeek": 6888,
+    "timeMonth": 3326,
+    "timeYear": 2331,
     "dailyMinutesDown": {
       "2025-07-22": 1064,
       "2025-07-21": 1440,
@@ -140,7 +140,7 @@
       "2026-06-24": 102,
       "2026-07-12": 848,
       "2026-07-11": 207,
-      "2026-07-20": 1
+      "2026-07-20": 58
     }
   },
   {
@@ -148,17 +148,17 @@
     "url": "https://api.qwq2333.top/qa/user/query",
     "icon": "https://icons.duckduckgo.com/ip3/api.qwq2333.top.ico",
     "slug": "auth-server",
-    "status": "down",
-    "uptime": "97.69%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.08%",
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "96.14%",
-    "time": 2241,
-    "timeDay": 418,
-    "timeWeek": 654,
-    "timeMonth": 1920,
-    "timeYear": 2193,
+    "time": 2242,
+    "timeDay": 594,
+    "timeWeek": 690,
+    "timeMonth": 1892,
+    "timeYear": 2191,
     "dailyMinutesDown": {
       "2025-07-22": 890,
       "2025-07-21": 1440,
@@ -212,7 +212,7 @@
       "2026-06-24": 101,
       "2026-07-12": 973,
       "2026-07-11": 206,
-      "2026-07-20": 1
+      "2026-07-20": 58
     }
   },
   {
@@ -220,17 +220,17 @@
     "url": "https://cloud.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.qwq2333.top.ico",
     "slug": "next-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "97.66%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.37%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "97.24%",
     "uptimeYear": "95.98%",
     "time": 2855,
-    "timeDay": 1607,
-    "timeWeek": 5091,
-    "timeMonth": 3716,
-    "timeYear": 2784,
+    "timeDay": 1486,
+    "timeWeek": 4610,
+    "timeMonth": 3645,
+    "timeYear": 2780,
     "dailyMinutesDown": {
       "2025-07-22": 1063,
       "2025-07-21": 1440,
@@ -283,7 +283,7 @@
       "2026-06-24": 101,
       "2026-07-12": 848,
       "2026-07-11": 205,
-      "2026-07-20": 0
+      "2026-07-20": 57
     }
   },
   {
@@ -291,17 +291,17 @@
     "url": "https://apk.qwq2333.top",
     "icon": "https://icons.duckduckgo.com/ip3/apk.qwq2333.top.ico",
     "slug": "jenkins",
-    "status": "down",
+    "status": "up",
     "uptime": "97.30%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.37%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "97.24%",
     "uptimeYear": "96.37%",
     "time": 2099,
-    "timeDay": 407,
-    "timeWeek": 619,
-    "timeMonth": 1915,
-    "timeYear": 2100,
+    "timeDay": 501,
+    "timeWeek": 628,
+    "timeMonth": 1880,
+    "timeYear": 2097,
     "dailyMinutesDown": {
       "2025-07-22": 1062,
       "2025-07-21": 1440,
@@ -349,7 +349,7 @@
       "2026-06-24": 101,
       "2026-07-12": 848,
       "2026-07-11": 203,
-      "2026-07-20": 0
+      "2026-07-20": 57
     }
   }
 ]
